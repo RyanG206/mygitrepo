@@ -1,0 +1,2 @@
+I Ryan Gould hereby declare that I am all set to write c++ code for linux (or mac-unix) and push the code to github from my command line
+
